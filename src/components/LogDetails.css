@@ -1,0 +1,25 @@
+.logDetails {
+    padding: 20px;
+  }
+  
+  .logDetails h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .logDetails p {
+    margin-bottom: 10px;
+  }
+  
+  .showNavigation {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+  }
+  
+  .showNavigation button {
+    cursor: pointer;
+  }
+  

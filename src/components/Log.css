@@ -1,0 +1,16 @@
+.Log {
+    transition: background-color 0.3s;
+  }
+  
+  .Log:hover {
+    background-color: #f2f2f2;
+  }
+  
+  .Log td {
+    padding: 10px;
+  }
+  
+  .Log span {
+    font-size: 18px;
+  }
+  

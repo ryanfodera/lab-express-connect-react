@@ -1,0 +1,40 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+    padding: 10px 20px;
+  }
+  
+  .navbar h1 {
+    margin: 0;
+  }
+  
+  .navbar a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+  }
+  
+  .nav-buttons {
+    display: flex;
+    align-items: center;
+  }
+  
+  .nav-buttons button {
+    background-color: #4caf50;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 10px;
+    cursor: pointer;
+  }
+  
+  .nav-buttons button:hover {
+    background-color: #45a049;
+  }
+  

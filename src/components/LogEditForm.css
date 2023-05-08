@@ -1,0 +1,47 @@
+.Edit {
+    padding: 20px;
+  }
+  
+  .Edit label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .Edit input,
+  .Edit textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+  }
+  
+  .Edit input[type="submit"] {
+    width: auto;
+    background-color: #4caf50;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .Edit input[type="submit"]:hover {
+    background-color: #45a049;
+  }
+  
+  .Edit button {
+    background-color: #f44336;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  
+  .Edit button:hover {
+    background-color: #e60000;
+  }
+  
